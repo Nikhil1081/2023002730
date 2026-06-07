@@ -1,0 +1,4 @@
+stage2/node_modules/
+stage2/.next/
+stage2/.env.local
+stage1/__pycache__/
